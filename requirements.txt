@@ -1,6 +1,6 @@
 
     flask==1.0
-    django==2.0
+    django==2.0.12
     flask-ipban==0.2.2
     mysql-connector-python==8.0.14
 
